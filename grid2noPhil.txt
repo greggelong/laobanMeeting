@@ -1,0 +1,56 @@
+注意艺术工人们，检查第一区域的砖块！  
+Attention art workers, inspect the bricks in Zone 1!  
+注意艺术工人们，开始建立地基！  
+Attention art workers, begin building the foundation!  
+注意艺术工人们，将砖块1移动到 B8！  
+Attention art workers, move Brick 1 to B8!  
+注意艺术工人们，将砖块2移动到 C7！  
+Attention art workers, move Brick 2 to C7!  
+注意艺术工人们，将砖块3和砖块4移动到 C4！  
+Attention art workers, move Brick 3 and Brick 4 to C4!  
+注意艺术工人们，将砖块5和砖块6移动到 D3！  
+Attention art workers, move Brick 5 and Brick 6 to D3!  
+注意艺术工人们，将砖块7和砖块8移动到 E7！  
+Attention art workers, move Brick 7 and Brick 8 to E7!  
+注意艺术工人们，将砖块9移动到 F3！  
+Attention art workers, move Brick 9 to F3!  
+注意艺术工人们，将砖块10和砖块11移动到 H8！  
+Attention art workers, move Brick 10 and Brick 11 to H8!  
+注意艺术工人们，将砖块12移动到 H1！  
+Attention art workers, move Brick 12 to H1!  
+注意艺术工人们，检查B区的管道！ 
+Attention art workers, inspect the pipes in Zone B!  
+注意艺术工人们，开始构建AI的喉咙，让算法的声音回响世界！  
+Attention art workers, construct the throat of the AI so its voice may resonate into the world!  
+注意艺术工人们，将管道1和管道2移动到 A8！  
+Attention art workers, move Pipe 1 and Pipe 2 to A8!  
+注意艺术工人们，将管道3和管道4移动到 B8 和 C8！  
+Attention art workers, move Pipe 3 and Pipe 4 to B8 and C8!  
+注意艺术工人们，将管道5到管道10依次排列，从 C7 到 C3！  
+Attention art workers, place Pipe 5 through Pipe 10 from C7 to C3!  
+注意艺术工人们，将管道11到管道16依次排列，从 D3 到 H3！  
+Attention art workers, place Pipe 11 through Pipe 16 from D3 to H3!  
+注意艺术工人们，将管道17从 H3 连接到 H1！  
+Attention art workers, move Pipe 17 from H3 to H1!  
+注意艺术工人们，检查第三区域的银质与金质连接器！  
+Attention art workers, inspect the silver and gold connectors in Zone 3!  
+注意艺术工人们，构建智慧的路径！  
+Attention art workers, build the path of intelligence!  
+注意艺术工人们，将银质连接器1从 H8 连接到 E7！  
+Attention art workers, connect Silver 1 from H8 to E7!  
+注意艺术工人们，将金质连接器1从 E7 连接到 C4！  
+Attention art workers, connect Gold 1 from E7 to C4!  
+注意艺术工人们，将银质连接器2从 C4 连接到 A1！  
+Attention art workers, connect Silver 2 from C4 to A1!  
+注意艺术工人们，检查第三区域的神圣“骨头微波占卜装置”！  
+Attention art workers, inspect the sacred “Bone Microwave Divination Devices” in Zone 3!  
+注意艺术工人们，建立骨头微波占卜装置！  
+Attention art workers, erect the bone microwave divination devices!  
+注意艺术工人们，在 A2 竖立微波炉1！  
+Attention art workers, erect Microwave 1 at A2!  
+注意艺术工人们，在 H5 竖立微波炉2！  
+Attention art workers, erect Microwave 2 at H5!  
+注意艺术工人们，在 E7 竖立微波炉3！  
+Attention art workers, erect Microwave 3 at E7!  
+所有准备就绪，最后的指令即将降临。  
+All is prepared; the final instruction will soon arrive.  
