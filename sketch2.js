@@ -1,8 +1,6 @@
-// will speech only works well with chrome
-// using this cdn
-// <script src="https://cdn.jsdelivr.net/gh/IDMNYU/p5.js-speech@0.0.3/lib/p5.speech.js"></script>
-
-// another cdn I am not sure which will work in china
+// this will read all the rules through for recoding easily but it will mess up the first rule
+// so repeat that one
+// also in this one after the the other it will read English first then chinese but in
 let off = 10; // offset for sine wave
 let x; // x pos for word
 let story;
@@ -14,7 +12,7 @@ let bkw;
 let talking = false;
 let cbard;
 function preload() {
-  story = loadStrings("grid2noPhil.txt");
+  story = loadStrings("boneexit.txt");
   //story = loadStrings("site.txt");
 }
 
@@ -30,6 +28,7 @@ function setup() {
 
   cbard.onLoad = loaded;
   cbard.onEnd = speakit;
+  //bard.onEnd = speakit;
   speakButton = createButton("Speak it");
   speakButton.size(100, 100);
 
@@ -79,6 +78,11 @@ function speakit() {
   //bard.setVoice("Microsoft Mark - English (United States)")
   bard.setLang("en-US");
   bard.speak(story[myline + 1]);
+  if (myline < story.length - 3) {
+    myline += 2;
+    x = width;
+    off = 10;
+  }
 }
 
 function goBack() {
@@ -94,7 +98,7 @@ function goBack() {
 function goForward() {
   bard.cancel();
   cbard.cancel();
-  if (myline < story.length - 3) {
+  if (myline < story.length - 5) {
     myline += 2;
     x = width;
     off = 10;
