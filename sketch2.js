@@ -12,7 +12,7 @@ let bkw;
 let talking = false;
 let cbard;
 function preload() {
-  story = loadStrings("boneexit.txt");
+  story = loadStrings("closingMeeting2.txt");
   //story = loadStrings("site.txt");
 }
 
@@ -70,13 +70,19 @@ function draw() {
 
 function speakit() {
   print("hello");
+
   cbard.setLang("zh-CN");
+  cbard.setPitch(random([0.01, 2]));
+  cbard.setRate(random([0.01, 2]));
 
   //bard.setVoice("Microsoft YaoYao - Chinese (Simplified, PRC)")
 
   cbard.speak(story[myline]);
+
   //bard.setVoice("Microsoft Mark - English (United States)")
   bard.setLang("en-US");
+  bard.setPitch(random([0.01, 2]));
+  bard.setRate(random([0.01, 2]));
   bard.speak(story[myline + 1]);
   if (myline < story.length - 3) {
     myline += 2;
