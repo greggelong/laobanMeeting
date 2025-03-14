@@ -7,7 +7,10 @@ body, pre{
   text-align: center;
   font-family: monospace; 
 }
-
+body {
+  overflow-y: hidden; /* Hide vertical scroll bar */
+  overflow-x: hidden; /* Hide horizontal scroll bar */
+  }
 pre{
   font-family: monospace; 
 }

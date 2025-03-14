@@ -22,6 +22,7 @@ function setup() {
   createCanvas(windowWidth, 800);
   //colorMode(HSB, story.length, 100, 100);
   //textFont("Courier New", 10);
+  pixelDensity(1);
   bard = new p5.Speech(); // speech synthesis object
   cbard = new p5.Speech();
   cbard.setLang("zh-CN");
