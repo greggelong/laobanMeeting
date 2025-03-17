@@ -12,3 +12,6 @@ updated instructions for december 28th 2024 performance
 ce_swap_instructionsPhil.txt
 
 https://greggelong.github.io/laoban/
+
+
+this has been changed for the performance at lev gallery  
