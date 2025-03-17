@@ -14,7 +14,7 @@ let bkw;
 let talking = false;
 let cbard;
 function preload() {
-  story = loadStrings("grid2noPhil.txt");
+  story = loadStrings("grid1.txt");
   //story = loadStrings("site.txt");
 }
 
