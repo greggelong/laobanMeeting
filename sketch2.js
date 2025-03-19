@@ -12,7 +12,7 @@ let bkw;
 let talking = false;
 let cbard;
 function preload() {
-  story = loadStrings("gotobrick.txt");
+  story = loadStrings("dongnaninvite.txt");
   //story = loadStrings("site.txt");
 }
 
