@@ -12,8 +12,8 @@ let bkw;
 let talking = false;
 let cbard;
 function preload() {
-  story = loadStrings("dongnaninvite.txt");
-  //story = loadStrings("site.txt");
+  //story = loadStrings("grid1.txt");
+  story = loadStrings("task3.txt");
 }
 
 function setup() {
