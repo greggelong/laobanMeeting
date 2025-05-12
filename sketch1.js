@@ -14,7 +14,7 @@ let bkw;
 let talking = false;
 let cbard;
 function preload() {
-  story = loadStrings("grid1.txt");
+  story = loadStrings("poems2.txt");
   //story = loadStrings("site.txt");
 }
 
@@ -56,8 +56,8 @@ function draw() {
   );
   fill(255, 0, 0);
   x = width; // to start set x at width
-  let mywords = split(story[myline], " ");
-  //print(mywords, myline);
+  let mywords = split(story[myline], "");
+  print(mywords, myline);
   for (let i = 0; i < mywords.length; i++) {
     textSize(height - 60);
     if (x - off < 0 && i == mywords.length - 1) {
