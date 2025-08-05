@@ -14,7 +14,7 @@ let bkw;
 let talking = false;
 let cbard;
 function preload() {
-  story = loadStrings("laobanFood.txt");
+  story = loadStrings("laobanfood.txt");
   //story = loadStrings("site.txt");
 }
 
