@@ -14,7 +14,7 @@ let bkw;
 let talking = false;
 let cbard;
 function preload() {
-  story = loadStrings("hainan.txt");
+  story = loadStrings("hainan2.txt");
   //story = loadStrings("site.txt");
 }
 
