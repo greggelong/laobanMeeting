@@ -1,5 +1,5 @@
 警报：检测到呼吸与泥土的同步。  
-Alert: breath synchronized with soil.  
+Alert: breath synchronized with soil. 
 触摸一块绿色安全背心的碎片。  
 Touch a fragment of the green safety vest.  
 警报：检测到蘑菇网络的扩展。地下数据正在流动。  
