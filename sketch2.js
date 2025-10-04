@@ -13,7 +13,7 @@ let talking = false;
 let cbard;
 function preload() {
   //story = loadStrings("grid1.txt");
-  story = loadStrings("resort.txt");
+  story = loadStrings("mall.txt");
 }
 
 function setup() {
